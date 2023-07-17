@@ -1,0 +1,23 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    background-color: antiquewhite;
+}
+
+.header-left{
+    display: flex;
+}
+
+.nav-container{
+    display: flex;
+    align-items: center;
+}
+
+.nav-item{
+    width: 100px;
+    color: brown;
+    font-weight: 600;
+    cursor: pointer;
+}
